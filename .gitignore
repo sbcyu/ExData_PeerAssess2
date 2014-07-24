@@ -23,5 +23,4 @@ rstudio*.Rproj
 NEWS.html
 CMakeLists.txt.user
 .idea/
-*.rds
 *.Rproj
